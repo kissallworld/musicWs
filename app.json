@@ -1,6 +1,6 @@
 {
-    "name": "HX",
-    "description": "Learn Linux on heroku",
+    "name": "YM",
+    "description": "new jump",
     "keywords": ["Linux"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "da4c732f-3110-4c11-809e-2382dc1f31a8"
+            "value": "a6636524-2263-4f48-a107-1583d3b047fa"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
