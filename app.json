@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "b9b37d3d-c5ef-497d-bb35-517b463c94ae"
+            "value": "63504ff4-3e64-46a3-b80f-f0fce57d3c71"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
