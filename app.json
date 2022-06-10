@@ -1,6 +1,6 @@
 {
-    "name": "jljljljgml1",
-    "description": "jljljljgml1",
+    "name": "ljljljljgml3",
+    "description": "ljljljljgml3",
     "keywords": ["Linux"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "63504ff4-3e64-46a3-b80f-f0fce57d3c71"
+            "value": "a890dc99-8563-448b-bad5-69a5fb14e03e"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
