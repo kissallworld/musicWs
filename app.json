@@ -1,6 +1,6 @@
 {
-    "name": "ljsms1",
-    "description": "ljsms1",
+    "name": "ljTJtp1",
+    "description": "ljTJtp1",
     "keywords": ["Linux"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "4288ea00-4bf0-4989-aab3-1461ebb39e48"
+            "value": "87636f68-4ae4-49ad-b147-a5028c0cd867"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
