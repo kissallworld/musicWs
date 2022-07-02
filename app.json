@@ -1,6 +1,6 @@
 {
-    "name": "ljTJtp3",
-    "description": "ljTJtp3",
+    "name": "ljTJtp4",
+    "description": "ljTJtp4",
     "keywords": ["Linux"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "35d69ee1-5d7d-4808-b46e-d9ed525f55f6"
+            "value": "acd5d651-1329-42df-ab64-51b7e7e0fcd8"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
