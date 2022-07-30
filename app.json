@@ -1,6 +1,6 @@
 {
-    "name": "ljstplav11",
-    "description": "ljstplav11",
+    "name": "ljstppep16",
+    "description": "ljstppep16",
     "keywords": ["youknowthat"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "1ca7fbca-05f5-4322-a670-aaa761b55d20"
+            "value": "d89886b2-03d6-4079-bc7f-5694a741e2d5"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
