@@ -1,6 +1,6 @@
 {
-    "name": "ljs2gmlzeus",
-    "description": "ljs2gmlzeus",
+    "name": "ljs2gmlzesus",
+    "description": "ljs2gmlzesus",
     "keywords": ["youknowthat"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "Your UUID",
-            "value": "f81ff21e-00af-4fa0-8ac2-2333a4d8309f"
+            "value": "58dfb160-89d4-490d-a44d-365a197edd0c"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
